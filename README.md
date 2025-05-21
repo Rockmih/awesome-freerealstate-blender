@@ -203,6 +203,7 @@
     -   [MeasureIt-ARCH](https://github.com/kevancress/MeasureIt_ARCH) : An expansion of Antonio Vazquez's MeasureIt addon to add features to create Architectural Drawings.
     -   [JARCH-Vis](https://blenderartists.org/t/addon-jarch-vis/642607) : is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
 -   Retopology/Remesh:
+    -   [PolyQuilt](https://github.com/AIGODLIKE/PolyQuilt) : PolyQuiltis an add-on for Blender 4.0 that supports low-poly modeling. [![][repo]](https://github.com/AIGODLIKE/PolyQuilt)
     -   [retopoflow](https://blendermarket.com/products/retopoflow) : A suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
     -   [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
     -   [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
