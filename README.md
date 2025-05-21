@@ -9,8 +9,8 @@
             src="https://img.shields.io/badge/keep-up--to--date-blue?logo=&style=flat-square" /></a>
     <a href="https://awesome-blender.netlify.app/"><img
             src="https://api.netlify.com/api/v1/badges/0fe6c176-6b03-4d27-a8fc-faf4f7c460cd/deploy-status" /></a>
-    <p>A curated list of awesome <b>Blender</b> add-ons, tools, tutorials and resources for 3D Artists, Hobbyists,
-        Developers, Researchers. Focused <i>mostly</i> open source and free resources.
+    <p>A curated list of awesome <b>Free Real State Blender</b> add-ons, tools, tutorials and resources for 3D Artists, Hobbyists,
+        Developers, Researchers. Focused <i>Exclusively</i> on open source and free resources.
 </div>
 
 <a name="table"></a>
